@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1774363310939,678,Get emails,200,OK,Email pattern validation 2-1,text,true,,3471,172,1,2,https://reqres.in/api/users,665,0,413
+1774363312576,5,Debug Sampler,200,OK,Email pattern validation 2-1,text,true,,950,0,1,2,null,0,0,0
+1774363312406,719,Users request,401,"Expected 'Missing API Key', but got 'The x-api-key header is required for this endpoint.'",JDBC & Parameterization 1-1,text,true,,2655,234,1,1,https://reqres.in/api/users/1,719,0,431
+1774363313224,214,Users request,401,"Expected 'Missing API Key', but got 'The x-api-key header is required for this endpoint.'",JDBC & Parameterization 1-1,text,true,,2653,234,1,1,https://reqres.in/api/users/2,214,0,0
+1774363313443,297,Users request,401,"Expected 'Missing API Key', but got 'The x-api-key header is required for this endpoint.'",JDBC & Parameterization 1-1,text,true,,2661,234,1,1,https://reqres.in/api/users/3,297,0,0
+1774363313746,125,Users request,401,"Expected 'Missing API Key', but got 'The x-api-key header is required for this endpoint.'",JDBC & Parameterization 1-1,text,true,,2649,234,1,1,https://reqres.in/api/users/4,125,0,0
+1774363313876,273,Users request,401,"Expected 'Missing API Key', but got 'The x-api-key header is required for this endpoint.'",JDBC & Parameterization 1-1,text,true,,2649,234,1,1,https://reqres.in/api/users/5,273,0,0
+1774363314154,1,Debug Sampler,200,OK,JDBC & Parameterization 1-1,text,true,,1397,0,1,1,null,0,0,0
